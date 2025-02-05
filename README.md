@@ -1,4 +1,4 @@
-# Thesis
+# Iron air batteries modelling thesis
 Multi-day energy storage in GB's 2030 power grid
 
 ## Abstract
